@@ -64,3 +64,9 @@ This project was built out of a belief that financial literacy matters, especial
 * JPY 
 * CNY
 
+# **Installation**
+## **Download (macOS)**
+1. Go to the **Releases** page
+2. **Download** the latest .dmg file
+3. **Open** the .dmg and **drag** Finflow to your Applications folder
+4. Right-click the app → **Open** → click Open in the dialog (required only on first launch for apps outside the App Store)
